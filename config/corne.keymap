@@ -22,7 +22,7 @@
    &kp TAB   &kp Q &kp W &kp E &kp R &kp T   &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSLH
    &mo NAV &mt LSHIFT A &kp S &kp D &kp F &mt NUMPAD G   &kp H &kp J  &kp K     &kp L   &mt RSHIFT SEMI &mo NAV
    &mo PROGRAM &mt LCTRL Z &kp X &kp C &kp V &kp B   &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &mo PROGRAM
-                  &kp LALT &kp SPACE &kp LCMD   &kp BSPC &kp ENTER &kp ESC
+                  &kp LALT &kp SPACE &kp LCMD   &kp ENTER &kp BSPC &kp ESC
                         >;
                 };
 
